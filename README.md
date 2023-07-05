@@ -12,4 +12,5 @@ Boa sorte.
 Instruções para executar os testes:
 
 1 - npm i
+
 2 - npm test
